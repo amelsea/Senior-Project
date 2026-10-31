@@ -46,7 +46,7 @@ input {
 
   --color-background: #fff3eb;
   --color-surface: #fff4f6;
-  --color-surface-alt: #eceae7;
+  --color-surface-alt: #ffffff;
 
   --color-text: #522a33;
   --color-muted: #665f58;
@@ -1047,7 +1047,7 @@ a:hover {
         90deg,
         rgba(255, 255, 255, 0.68) 0%,
         rgba(146, 103, 103, 0.273) 0%,
-        rgba(111, 79, 79, 0.51) 100%
+        rgba(111, 79, 79, 0.51) 50%
       );
 }
 

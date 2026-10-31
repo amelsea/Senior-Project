@@ -45,10 +45,10 @@ input {
 :root {
 
   --color-background: #fff3eb;
-  --color-surface: #fae2ea;
+  --color-surface: #edc2cd;
   --color-surface-alt: #eceae7;
 
-  --color-text: #4f0a27;
+  --color-text: #522a33;
   --color-muted: #665f58;
 
   --color-primary: #b03160;
@@ -1046,7 +1046,7 @@ a:hover {
       linear-gradient(
         90deg,
         rgba(198, 122, 122, 0.68) 0%,
-        rgba(146, 103, 103, 0.273) 45%,
+        rgba(146, 103, 103, 0.273) 0%,
         rgba(111, 79, 79, 0.51) 100%
       );
 }

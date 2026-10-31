@@ -44,7 +44,7 @@ input {
 
 :root {
 
-  --color-background: #ede9eb;
+  --color-background: #fff3eb;
   --color-surface: #fae2ea;
   --color-surface-alt: #eceae7;
 
@@ -1045,9 +1045,9 @@ a:hover {
     background:
       linear-gradient(
         90deg,
-        rgb(0 0 0 / 0.68) 0%,
-        rgb(0 0 0 / 0.4) 45%,
-        rgba(112, 78, 78, 0.08) 100%
+        rgba(198, 122, 122, 0.68) 0%,
+        rgba(163, 110, 110, 0.4) 45%,
+        rgba(147, 95, 95, 0.685) 100%
       );
 }
 

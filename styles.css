@@ -1036,6 +1036,20 @@ a:hover {
 
     color: #ffffff;
   }
+    .hero-overlay {
+    position: absolute;
+    inset: 0;
+
+    display: block;
+
+    background:
+      linear-gradient(
+        90deg,
+        rgb(0 0 0 / 0.68) 0%,
+        rgb(0 0 0 / 0.4) 45%,
+        rgba(112, 78, 78, 0.08) 100%
+      );
+}
 
 
   /* ----------------------------------------------------------
